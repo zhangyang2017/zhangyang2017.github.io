@@ -1,18 +1,15 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Yang Zhang"
+nickname: "Yang"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/jessica.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
+  email: "zhangya3@oregonstate.edu"
   phone: "+0123456789"
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
+  - I am a PhD Candidate in Nutrition
   - I love to work with some fun projects
